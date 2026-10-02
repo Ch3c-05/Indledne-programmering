@@ -1,0 +1,14 @@
+Quadratic.java:16: error: bad operand types for binary operator '&&'
+    if (a = 0 && b = 0 && c = 0) { 
+              ^
+  first type:  int
+  second type: double
+Quadratic.java:16: error: bad operand types for binary operator '&&'
+    if (a = 0 && b = 0 && c = 0) { 
+                       ^
+  first type:  int
+  second type: double
+Quadratic.java:16: error: incompatible types: double cannot be converted to boolean
+    if (a = 0 && b = 0 && c = 0) { 
+          ^
+3 errors
