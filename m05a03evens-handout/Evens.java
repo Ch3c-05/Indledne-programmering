@@ -2,6 +2,20 @@ void main() {
     var values = Util.parseInput();
     // Write your code here
 
+    var even = 0;
+
+    for (var i = 0; i < values.length; i++) {
+
+        var remainder = values[i] % 2;
+
+        if (remainder == 0) {
+
+            even++;
+
+        } 
+
+    }
+    System.out.println(even);
     
 
 
