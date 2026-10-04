@@ -1,7 +1,17 @@
 // Write your code here
 void main() {
 
-    var values = Util.parseInput();
+    var s = new java.util.Scanner(System.in);
+    s.useLocale(java.util.Locale.ENGLISH);
+    
+
+    var values = new Double[3] ;
+
+    for (var i = 0; i < values.length; i++) {
+        values[i] = s.nextDouble();
+    }
+
+    s.close();
 
     var a = values[0];
     var b = values[1];
@@ -34,32 +44,6 @@ void main() {
 
 }
 
-
-class Util {
-    /**
-     * Reads a line from the console and splits it into integer values.
-     *
-     * @return an array of integers read from the console
-    */
-    static double[] parseInput() {
-        var scanner = new java.util.Scanner(System.in);
-        scanner.useLocale(java.util.Locale.ENGLISH);
-
-        var input = scanner.nextLine();
-
-        scanner.close();
-
-        var split = input.split(" ");
-        var values = new double[split.length]; 
-
-        for (var i = 0; i < values.length; i++) {
-
-            values[i] = Double.parseDouble(split[i]);
-
-        }
-        return values;
-    }
-}
 
 
 
