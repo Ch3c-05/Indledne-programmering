@@ -5,6 +5,7 @@ void main () {
 
     var sum = 0.0;
     var mean = 0.0;
+    var sqsum = 0.0;
 
     for (var i = 0; i < values.length; i++) {
 
@@ -13,7 +14,15 @@ void main () {
     }
     mean = sum / values.length;
 
-    System.out.println("The mean is: " + mean);
+    for (var i = 0; i < values.length; i++) {
+
+        sqsum = sqsum + Math.pow(values[i] - mean, 2);
+
+    }
+    var deviation = Math.sqrt(sqsum / values.length);
+
+    System.out.println("Mean: " + mean);
+    System.out.println("Standard deviation: " + deviation);
 
 }
 
