@@ -1,0 +1,6 @@
+Test04.java:9: error: cannot find symbol
+    var p2 = Point.translate(p, -4, 5.5);
+                  ^
+  symbol:   method translate(Point,int,double)
+  location: class Point
+1 error

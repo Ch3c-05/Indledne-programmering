@@ -1,0 +1,12 @@
+// Do not modify this file!
+
+void main() {
+    var p = new Point();
+    p.x = 2;
+    p.y = 4;
+    System.out.println("The coordinates are: " + p.x + ", " + p.y);
+
+    p.x = 1.0;
+    p.y = 2.0;
+    System.out.println("The coordinates are now: " + p.x + ", " + p.y);
+}
