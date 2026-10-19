@@ -1,0 +1,26 @@
+Matrix 'a':
+Dimensions: 4 x 3
+[ 1.0 2.0 3.0 ]
+[ 4.0 5.0 6.0 ]
+[ 7.0 8.0 9.0 ]
+[ 10.0 11.0 12.0 ]
+
+Transposing matrix 'a'...
+Result of the transposition:
+Dimensions: 3 x 4
+[ 1.0 4.0 7.0 10.0 ]
+[ 2.0 5.0 8.0 11.0 ]
+[ 3.0 6.0 9.0 12.0 ]
+
+Matrix 'b':
+Dimensions: 2 x 4
+[ 1.0 2.0 3.0 4.0 ]
+[ 5.0 6.0 7.0 8.0 ]
+
+Transposing matrix 'b'...
+Result of the transposition:
+Dimensions: 4 x 2
+[ 1.0 5.0 ]
+[ 2.0 6.0 ]
+[ 3.0 7.0 ]
+[ 4.0 8.0 ]
