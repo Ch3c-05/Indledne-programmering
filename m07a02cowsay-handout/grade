@@ -1,0 +1,2 @@
+#!/bin/sh
+java --enable-native-access=ALL-UNNAMED -Xmx128m -ea -jar .jgrader/jgrader-0.0.2.jar "$@"
