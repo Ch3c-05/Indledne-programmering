@@ -7,8 +7,16 @@ class CowSay {
         String[] words = text.split(" ");
 
         String line = "";
-        String output = "";
-
+        String border1 = "_".repeat(41);
+        String border2 = "-".repeat(41);
+        String output = " " + border1 + System.lineSeparator();
+        String cow = """
+                \\   ^__^
+                 \\  (oo)\\_______
+                    (__)\\       )\\/\\
+                        ||----w |
+                        ||     ||\
+        """;
         for (var i = 0; i < words.length; i++) {
             if (line.length() == 0) {
                 line = words[i];
@@ -19,8 +27,9 @@ class CowSay {
                 line = words[i];
             }
         }
-        output = output + format(line);
+        output = output + format(line) + System.lineSeparator() + " " + border2;
         IO.println(output);
+        IO.println(cow);
 
     }
 
@@ -29,6 +38,7 @@ class CowSay {
 
         String padding = " ".repeat(spaces);
         return "| " + line + padding + " |";
+    
     }
 
 
