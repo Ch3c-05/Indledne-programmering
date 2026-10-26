@@ -1,0 +1,7 @@
+Date.java:39: error: illegal start of expression
+        return >= 1 && <= daysInMonth(this.year, this.month);
+               ^
+Date.java:39: error: illegal start of expression
+        return >= 1 && <= daysInMonth(this.year, this.month);
+                       ^
+2 errors

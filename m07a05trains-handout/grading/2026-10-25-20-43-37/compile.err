@@ -1,0 +1,21 @@
+Test04.java:16: error: cannot find symbol
+        d1.delay(10);
+          ^
+  symbol:   method delay(int)
+  location: variable d1 of type Departure
+Test04.java:17: error: cannot find symbol
+        d2.delay(15);
+          ^
+  symbol:   method delay(int)
+  location: variable d2 of type Departure
+Test04.java:18: error: cannot find symbol
+        d3.delay(14);
+          ^
+  symbol:   method delay(int)
+  location: variable d3 of type Departure
+Test04.java:19: error: cannot find symbol
+        d4.delay(170);
+          ^
+  symbol:   method delay(int)
+  location: variable d4 of type Departure
+4 errors

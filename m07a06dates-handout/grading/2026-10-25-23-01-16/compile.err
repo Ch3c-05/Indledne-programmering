@@ -1,0 +1,6 @@
+Date.java:36: error: cannot find symbol
+            case 2 -> isLeapYear(year) ? 29:28;
+                      ^
+  symbol:   method isLeapYear(int)
+  location: class Date
+1 error
