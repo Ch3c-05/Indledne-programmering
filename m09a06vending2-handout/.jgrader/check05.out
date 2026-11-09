@@ -1,0 +1,107 @@
+Trying to get 5 coffees from all machines...
+  - Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 0)
+    Got 0 coffees
+    --> Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 0)
+  - Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 0)
+    Got 0 coffees
+    --> Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 0)
+    Got 0 coffees
+    --> Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 0)
+
+Trying to get 6 chocolates from all machines...
+  - Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 0)
+    Got 0 chocolates
+    --> Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 0)
+  - Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 0)
+    Got 0 chocolates
+    --> Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 0)
+    Got 0 chocolates
+    --> Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 0)
+
+Trying to get 7 Wiener melanges from all machines...
+  - Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 0)
+  - Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 0)
+
+Putting some credits in all machines...
+
+Trying to get 5 coffees from all machines...
+  - Machine @ DTU building 324 (coffee: 100; chocolate: 100; credits: 90)
+    Got 5 coffees
+    --> Machine @ DTU building 324 (coffee: 95; chocolate: 100; credits: 40)
+  - Machine @ Lyngby Station (coffee: 10; chocolate: 9; credits: 210)
+    Got 5 coffees
+    --> Machine @ Lyngby Station (coffee: 5; chocolate: 9; credits: 160)
+  - Machine @ CPH Airport Gate A10 (coffee: 25; chocolate: 12; credits: 350)
+    Got 5 coffees
+    --> Machine @ CPH Airport Gate A10 (coffee: 20; chocolate: 12; credits: 300)
+
+Trying to get 6 chocolates from all machines...
+  - Machine @ DTU building 324 (coffee: 95; chocolate: 100; credits: 40)
+    Got 2 chocolates
+    --> Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+  - Machine @ Lyngby Station (coffee: 5; chocolate: 9; credits: 160)
+    Got 6 chocolates
+    --> Machine @ Lyngby Station (coffee: 5; chocolate: 3; credits: 40)
+  - Machine @ CPH Airport Gate A10 (coffee: 20; chocolate: 12; credits: 300)
+    Got 6 chocolates
+    --> Machine @ CPH Airport Gate A10 (coffee: 20; chocolate: 6; credits: 180)
+
+Trying to get 7 Wiener melanges from all machines...
+  - Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+  - Machine @ Lyngby Station (coffee: 5; chocolate: 3; credits: 40)
+    Got 1 Wiener melanges
+    --> Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 10)
+  - Machine @ CPH Airport Gate A10 (coffee: 20; chocolate: 6; credits: 180)
+    Got 6 Wiener melanges
+    --> Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+
+Trying to get credits from all machines...
+  - Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0): 0
+  - Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 10): 10
+    --> Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0): 0
+
+Trying to get 5 coffees from all machines...
+  - Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+    Got 0 coffees
+    --> Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+  - Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+    Got 0 coffees
+    --> Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+    Got 0 coffees
+    --> Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+
+Trying to get 6 chocolates from all machines...
+  - Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+    Got 0 chocolates
+    --> Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+  - Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+    Got 0 chocolates
+    --> Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+    Got 0 chocolates
+    --> Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+
+Trying to get 7 Wiener melanges from all machines...
+  - Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ DTU building 324 (coffee: 95; chocolate: 98; credits: 0)
+  - Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ Lyngby Station (coffee: 4; chocolate: 2; credits: 0)
+  - Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+    Got 0 Wiener melanges
+    --> Machine @ CPH Airport Gate A10 (coffee: 14; chocolate: 0; credits: 0)
+

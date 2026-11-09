@@ -1,0 +1,16 @@
+Test99.java:18: error: cannot find symbol
+        ClassTestUtils.checkInterface(Subtraction.class, "Expression");
+                                      ^
+  symbol:   class Subtraction
+  location: class Test99
+Test99.java:19: error: cannot find symbol
+        ClassTestUtils.checkConstructorImplPublic(Subtraction.class, new Class<?>[] {Expression.class, Expression.class});
+                                                  ^
+  symbol:   class Subtraction
+  location: class Test99
+Test99.java:20: error: cannot find symbol
+        ClassTestUtils.checkFieldsPrivate(Subtraction.class);
+                                          ^
+  symbol:   class Subtraction
+  location: class Test99
+3 errors
