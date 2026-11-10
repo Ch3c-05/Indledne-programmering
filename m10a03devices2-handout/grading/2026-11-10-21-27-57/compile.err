@@ -1,0 +1,4 @@
+Device.java:94: error: model has private access in Device
+        return this.model;
+                   ^
+1 error
