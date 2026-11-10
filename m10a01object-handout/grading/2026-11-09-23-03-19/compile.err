@@ -1,0 +1,6 @@
+Test99.java:13: error: cannot find symbol
+        ClassTestUtils.checkSuperclass(ExcellentPoint3D.class, GoodPoint3D.class);
+                                       ^
+  symbol:   class ExcellentPoint3D
+  location: class Test99
+1 error
