@@ -1,0 +1,14 @@
+Value of counter1: 10
+Value of counter2: -16
+
+Changing counters...
+Value of counter1: -22
+Value of counter2: -24
+
+Incrementing counters...
+Value of counter1: -21
+Value of counter2: -23
+
+Decrementing counters...
+Value of counter1: -23
+Value of counter2: -25

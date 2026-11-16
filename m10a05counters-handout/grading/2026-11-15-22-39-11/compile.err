@@ -1,0 +1,6 @@
+Test99.java:12: error: cannot find symbol
+        ClassTestUtils.checkFieldsPrivate(StaticCounter.class);
+                                          ^
+  symbol:   class StaticCounter
+  location: class Test99
+1 error
