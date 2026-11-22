@@ -120,5 +120,44 @@ class Minus extends UnaryOperation {
     }
 
     @Override
-    public double 
+    public double result() {
+        return -this.e.result();
+    }
+
+    @Override
+    public String format() {
+        return "-(" + this.e.format() + ")";
+    }
 }
+
+class AbsoluteValue extends UnaryOperation {
+    public AbsoluteValue(Expression e) {
+        super(e);
+    }
+
+    @Override
+    public double result() {
+        return Math.abs(this.e.result());
+    }
+
+    @Override
+    public String format() {
+        return "abs(" + this.e.format() + ")";
+    }
+}
+
+class SquareRoot extends UnaryOperation {
+    public SquareRoot(Expression e) {
+        super(e);
+    }
+
+    @Override
+    public double result() {
+        return Math.sqrt(this.e.result());    
+    }
+
+    @Override
+    public String format() {
+        return "sqrt(" + this.e.format() + ")";
+    }
+} 
